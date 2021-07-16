@@ -50,5 +50,8 @@
                 "kind": "hana"
             }
         }
+    },
+    "devDependencies": {
+        "@sap/hdi-deploy": "^4.1.0"
     }
 }
